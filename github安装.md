@@ -44,7 +44,7 @@ https://github.com/downloads/oneclick/rubyinstaller/DevKit-tdm-32-4.5.2-20111229
 ```
 验证是否安装成功
 命令行中输入如下命令：
-D:\Sites>gem install rdiscount --platform=ruby  
+`D:\Sites>gem install rdiscount --platform=ruby`  
  
 ####1.1.3安装Selenium-webdriver
 安装
